@@ -6,7 +6,7 @@
 </head>
 <body>
   <div class="container" >
-    <div class="header" style="text-align: center;">
+    <div class="header" style="width: 100%, display: flex; justify-content: center;">
       <a href="https://imgur.com/GjpA6cF"><img src="https://i.imgur.com/GjpA6cF.jpg?1" alt="RentalSphere Logo " width="80px"></a>
     </div>
     <div class="content" >
